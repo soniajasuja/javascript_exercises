@@ -1,3 +1,18 @@
+/**
+ * 
+ * import modules by using the require keyword
+ * 
+ */
+
+// import a function
+const calculate = require('./arrow_function')
+console.log(calculate.arrowAdd(5, 10));
+console.log(calculate.regularAdd(10, 20));
+
+
+//******************************************************************* */
+
+// import a class
 const Rectangle = require('./class')
 
  // Creating an instance of the Rectangle Class

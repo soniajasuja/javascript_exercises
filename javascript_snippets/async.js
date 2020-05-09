@@ -1,3 +1,10 @@
+/**
+ * 
+ * The word async before a function means one simple thing: a function always returns a promise.
+ * So, async ensures that the function returns a promise, and wraps non-promises in it.
+ * 
+ */
+
 async function hello() {
     momsSavings = 20000;
     priceOfPhone = 60000;

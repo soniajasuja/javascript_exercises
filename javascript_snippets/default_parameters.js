@@ -1,6 +1,8 @@
 /**
+ * 
  * Default function parameters allow named parameters to be initialized 
- * with default values if no value or undefined is passed.
+ * with default values if no value or undefined is passed
+ * 
  */
 
 let mandatoryA = (a, b = 10) => {

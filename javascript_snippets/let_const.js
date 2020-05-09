@@ -3,6 +3,7 @@
  * let is block scoped while var is not
  * const is used to assign a constant value to the variable, its value is fixed and can't be changed
  * Changing the value of const will throw an error
+ * 
  */
 
 if (true) {

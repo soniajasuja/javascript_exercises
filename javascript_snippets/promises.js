@@ -1,3 +1,13 @@
+/**
+ * 
+ * Promises are used in Nodejs to make async operations sync
+ * They have 3 states: fulfilled, rejected, or pending
+ * The promise constructor takes one argument, a function with two parameters, resolve and reject
+ * Mehtods of promise can be accessed by creating an instance of Promise
+ * The 2 Methods available are then and catch
+ * 
+ */
+
 // var keepsHisWord;
 // keepsHisWord = true;
 
