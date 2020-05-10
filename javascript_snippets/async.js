@@ -27,3 +27,11 @@ hello().then(function(value){
 }).catch(function(error){
     console.log('Error: ', error);
 })
+
+async function time(){
+  await setTimeout(()=> {
+    console.log('I will get executed later')
+  }, 5000);
+}
+
+time().then(() => console.log('I will get executed earlier'));

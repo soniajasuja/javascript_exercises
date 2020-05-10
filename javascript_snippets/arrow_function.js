@@ -1,7 +1,7 @@
 /**
  * 
  * ES6 supports arrow function, refer below for the old & new syntax
- * Arrow Functions Return Value by Defaultß
+ * Arrow Functions Return Value by Default
  * 
  */
 
